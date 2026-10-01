@@ -1,0 +1,1 @@
+Ejercicio para la asignatura de Arquitectura Software para robots del master de robótica. Consiste en mover un Turtlebot con ROS2, con previa simulación en Gazebo y RViz, de forma que el robot haga un movimiento lineal o de rotación haciendo uso de servicios y la odometria
